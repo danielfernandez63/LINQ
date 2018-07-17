@@ -10,6 +10,9 @@ namespace LINQProblems
     {
         static void Main(string[] args)
         {
+          ListString list = new ListString();
+         
+         
         }
     }
 }
